@@ -1,0 +1,22 @@
+{
+    "name": "easyRun",
+    "description": "Easy task scheduler with goodies",
+    "keywords": "scheduler, task, state, machine, led, button",
+    "authors": [
+        {
+            "name": "bricoleau",
+            "email": "bricoleau.arduino@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/bricoleau/easyRun"
+    },
+    "version": "1.0.0",
+    "homepage": "http://github.com/bricoleau/easyRun",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}

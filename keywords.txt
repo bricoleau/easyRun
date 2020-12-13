@@ -1,0 +1,105 @@
+# Syntax Coloring Map For easyRun Library
+
+# Datatypes (KEYWORD1)
+runable	KEYWORD1
+task	KEYWORD1
+periodicTask	KEYWORD1
+asyncTask	KEYWORD1
+stateMachine	KEYWORD1
+fullMachine	KEYWORD1
+callbackVoid	KEYWORD1
+callbackTime	KEYWORD1
+printer	KEYWORD1
+loopMeter	KEYWORD1
+heartBeat	KEYWORD1
+watchdog	KEYWORD1
+runMeter	KEYWORD1
+easyLed	KEYWORD1
+button	KEYWORD1
+mButton	KEYWORD1
+actionButton	KEYWORD1
+clickButton	KEYWORD1
+holdButton	KEYWORD1
+pressButton	KEYWORD1
+toggleButton	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+easyRun	KEYWORD2
+run	KEYWORD2
+runAll	KEYWORD2
+set	KEYWORD2
+unset	KEYWORD2
+get	KEYWORD2
+isSetTo	KEYWORD2
+isNotSet	KEYWORD2
+isSet	KEYWORD2
+execute	KEYWORD2
+timeLeft	KEYWORD2
+setFirstRunable	KEYWORD2
+setLastRunable	KEYWORD2
+setBeforeRunable	KEYWORD2
+setAfterRunable	KEYWORD2
+nbRunable	KEYWORD2
+next	KEYWORD2
+currentStateIs	KEYWORD2
+time	KEYWORD2
+timeIsOver	KEYWORD2
+cycle	KEYWORD2
+callback	KEYWORD2
+retry	KEYWORD2
+getBack	KEYWORD2
+first	KEYWORD2
+previousStateIs	KEYWORD2
+nextStateIs	KEYWORD2
+willChangeNextRun	KEYWORD2
+pressed	KEYWORD2
+changed	KEYWORD2
+pinNumber	KEYWORD2
+released	KEYWORD2
+newPress	KEYWORD2
+newRelease	KEYWORD2
+pressTime	KEYWORD2
+releaseTime	KEYWORD2
+pressedFor	KEYWORD2
+releasedFor	KEYWORD2
+debounce_ms	KEYWORD2
+clicks	KEYWORD2
+maxClicks	KEYWORD2
+setPin	KEYWORD2
+value	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+isOff	KEYWORD2
+isOn	KEYWORD2
+isMaxOn	KEYWORD2
+setOnOff	KEYWORD2
+toggle	KEYWORD2
+stepUp	KEYWORD2
+stepDown	KEYWORD2
+pin	KEYWORD2
+lightOnLOW	KEYWORD2
+hasPWM	KEYWORD2
+enable	KEYWORD2
+disable	KEYWORD2
+count	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+raiseError	KEYWORD2
+resetError	KEYWORD2
+errorCode	KEYWORD2
+error	KEYWORD2
+active	KEYWORD2
+
+# Instances (KEYWORD2)
+easyLog	KEYWORD2
+easyDebug	KEYWORD2
+
+# Constants (LITERAL1)
+DEFAULT_DEBOUNCE_MS	LITERAL1
+MAX_TIME_BETWEEN_CLICKS	LITERAL1
+DEFAULT_LONG_PRESS_TIME	LITERAL1
+LED_BUILTIN_LIGHT_ON_LOW	LITERAL1
+DEFAULT_PERIOD	LITERAL1
+DEFAULT_CYCLE	LITERAL1
+ERROR_FLASH	LITERAL1
+ERROR_AUTO_RESET	LITERAL1
