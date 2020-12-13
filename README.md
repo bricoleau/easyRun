@@ -17,4 +17,4 @@ Classes such asyncTask will help you to suppress delays without using millis()
  
 ##### How to use it ? #####
  - A lot of examples are provided as tutorials
- - Load and run any of them, will show you how to use this library
+ - Loading and running any of them will show you how to use this library
